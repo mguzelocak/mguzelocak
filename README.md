@@ -1,5 +1,8 @@
 # 👋 Hi, I’m @mguzelocak
 
+<p align="center">
+  <img src="https://drive.google.com/file/d/1dYeibruCeVJWcjU0YDCrP5YkE99eRkIX/view?usp=sharing" width="150" height="150" alt="Murat Can Guzelocak"/>
+</p>
 ## 🧠 About Me
 
 I'm **Murat Can Guzelocak**, a Data Science and Computer Science student-athlete at **Carroll College**. I’m passionate about building smart tools at the intersection of technology, business, and automation. I enjoy blending data analysis with entrepreneurship — and sometimes basketball with Python.
