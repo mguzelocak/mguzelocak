@@ -35,7 +35,7 @@ Currently pursuing my MSc in **Data Science & Entrepreneurship** through a joint
   
 ## 🚀 Featured Projects
 
-### 🎮 [FreeBomber](https://github.com/mguzelocak/FreeBomber)
+### 🎮 [FreeBomber](https://github.com/andriastheI/FreeBomber)
 A Java-based desktop game inspired by classic Bomberman mechanics. Built with smart enemy AI, scoring systems, bomb physics, and power-ups — no external GUI libraries used. Includes full simulation mode and cheat code support for testing and fun.
 
 ## 📫 How to Reach Me
