@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @mguzelocak
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1dYeibruCeVJWcjU0YDCrP5YkE99eRkIX" width="500" height="1000" alt="Murat Can Guzelocak"/>
+  <img src="https://drive.google.com/uc?export=view&id=1dYeibruCeVJWcjU0YDCrP5YkE99eRkIX" width="600" height="1000" alt="Murat Can Guzelocak"/>
 </p>
 
 ## 🧠 About Me
@@ -31,7 +31,12 @@ Currently pursuing my MSc in **Data Science & Entrepreneurship** through a joint
 - AI-powered SaaS tools  
 - Smart pricing and recommendation systems  
 - Marketplace APIs and analytics platforms  
-- Projects that bring together code, business, and real value  
+- Projects that bring together code, business, and real value
+  
+## 🚀 Featured Projects
+
+### 🎮 [FreeBomber](https://github.com/mguzelocak/FreeBomber)
+A Java-based desktop game inspired by classic Bomberman mechanics. Built with smart enemy AI, scoring systems, bomb physics, and power-ups — no external GUI libraries used. Includes full simulation mode and cheat code support for testing and fun.
 
 ## 📫 How to Reach Me
 
