@@ -40,7 +40,7 @@ A Java-based desktop game inspired by classic Bomberman mechanics. Built with sm
 
 ## 📫 How to Reach Me
 
-- 📧 Email: muratguzelocak@gmail.com  
+- 📧 Email: mrtcnguzelocak@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/muratguzelocak](https://www.linkedin.com/in/muratguzelocak/)  
 - 🌐 Portfolio: [muratcanguzelocak.com](https://www.muratcanguzelocak.com) *(under development)*  
 
