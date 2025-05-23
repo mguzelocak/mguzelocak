@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @mguzelocak
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1dYeibruCeVJWcjU0YDCrP5YkE99eRkIX" width="150" height="150" alt="Murat Can Guzelocak"/>
+  <img src="https://drive.google.com/uc?export=view&id=1dYeibruCeVJWcjU0YDCrP5YkE99eRkIX" alt="Murat Can Guzelocak"/>
 </p>
 
 ## 🧠 About Me
